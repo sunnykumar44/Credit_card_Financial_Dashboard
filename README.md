@@ -13,13 +13,13 @@ Steps:
 4. Dashboard creation
 
 Insights:
- Customer behavior
- Financial performance
- Risk management
- Transaction trends
+- Customer behavior
+- Financial performance
+- Risk management
+- Transaction trends
 
 Action Items:
- Regularly update the dataset
- Monitor dashboard performance
- Gather stakeholder feedback
- Expand the dashboard as needed
+- Regularly update the dataset
+- Monitor dashboard performance
+- Gather stakeholder feedback
+- Expand the dashboard as needed
